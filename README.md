@@ -1,1 +1,1 @@
-![avatar_bg](img/avatar_bg_motor.jpg)
+![avatar_bg](img/avatar_bg_bed.jpg)
