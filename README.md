@@ -1,5 +1,5 @@
 
-<!-- [![KyleBing's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyleBing&custom_title=我的仓库统计)](https://kylebing.cn) -->
+<!-- [![KyleBing's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyleBing&custom_title=我的仓库统计)](http://kylebing.cn) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleBing&layout=compact&custom_title=我使用的语言&hide=css,swift,php&langs_count=4)](https://kylebing.cn)
 
